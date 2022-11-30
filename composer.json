@@ -16,8 +16,8 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.3",
-        "jbn/tax": "dev-master",
-		"jbn/currency": "dev-master"
+        "jbn/tax": "1.0.0",
+		"jbn/currency": "1.0.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.0"
